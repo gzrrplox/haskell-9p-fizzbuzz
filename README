@@ -1,0 +1,5 @@
+High level wrappers for client/server functionality over Data.NineP.
+
+Based on a quick filesystem for a fizzbuzz-challenge at http://linkkijkl.fi/blog/fizzbuzz-horror
+
+Currently quite incomplete.
